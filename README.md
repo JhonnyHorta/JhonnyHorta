@@ -14,7 +14,7 @@
   
 <div>
   <a href="mailto:jhol.horta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  <a href="api.whatsapp.com/send?phone=5545999024026"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
+  <a href="https://api.whatsapp.com/send?phone=5545999024026"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
   <a href="https://www.linkedin.com/in/jhonny-horta-13b22b17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
