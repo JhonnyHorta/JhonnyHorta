@@ -1,22 +1,21 @@
 <div>
-  <a href="https.github.com/JhonnyHorta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonnyHorta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyHorta&layout=compact&langs_count=168&theme=dracula"/>
+  <h1> Olá. Bem vindo a minha página.</h1>
+  <p>Eu sou o Jhonny, acadêmico de Sistemas para Internet UTFPR. Atualmente morando no Brasil</p>
 </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Horta-JS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="Horta-JS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Horta-JS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  </div>
-  
-  ##
-  
 <div>
-  <a href="mailto:jhol.horta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  <a href="https://api.whatsapp.com/send?phone=5545999024026"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/>
-  <a href="https://www.linkedin.com/in/jhonny-horta-13b22b17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <h3>Linguagens preferidas</h3>
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+          
 </div>
-
-
-![Snake animation](https://github.com/JhonnyHorta/JhonnyHorta/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <h3>Onde me encontrar</h3>
+  <a href="https://github.com/JhonnyHorta" target="_blank"><img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/></a>
+<a href="https://www.linkedin.com/in/jhonny-horta-13b22b17b/" target="_blank"> <img heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+</div>
